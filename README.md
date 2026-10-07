@@ -242,4 +242,4 @@ This repository serves as the official landing page for ProfiCAD. The software i
 **Get the most recent version of ProfiCAD today!**
 
 ---
-**Last updated:** 2026-10-07 08:01:11 UTC
+**Last updated:** 2026-10-07 15:56:32 UTC
